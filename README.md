@@ -15,7 +15,7 @@
 
 
 <details>
-<summary>## ⌨️ Bildiğim/Üzerinde uğraştığım diller.</summary>
+<summary>⌨️ Bildiğim/Üzerinde uğraştığım diller.</summary>
 <br>
 <img src="https://img.shields.io/badge/-Java-e40303?style=for-the-badge&logo=java"/>
 <img src="https://img.shields.io/badge/-HTML5-ff8c00?style=for-the-badge&logo=html5"/>
