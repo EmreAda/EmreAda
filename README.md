@@ -2,7 +2,7 @@
 
 ![merhaba](https://github.com/EmreAda/EmreAda/blob/main/header.png)
 
-- 🌱 Şu an esponsive web tasarımı yapmayı öğreniyorum.
+- 🌱 Şu an responsive web tasarımı yapmayı öğreniyorum.
 
 
 ## 💬 Hakkımda
