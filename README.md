@@ -18,8 +18,8 @@
 <summary>⌨️ Bildiğim/Üzerinde uğraştığım diller.</summary>
 <br>
 <img src="https://img.shields.io/badge/-Java-e40303?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-ff8c00?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS-008026?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00427E?style=for-the-badge&logo=c%2B%2B"/>
 <img src="https://img.shields.io/badge/-JavaScript-004dff?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/-PHP-750787?style=for-the-badge&logo=php"/>  
 </details>
@@ -32,10 +32,10 @@
 <summary> 📫 Bana Ulaş!</summary>
 <br>
 <img src="https://img.shields.io/badge/-recepemreada@yandex.com-FFCC01?style=for-the-badge&logo=gmail"/>
-<img src="https://img.shields.io/badge/-@recepemre.me-984AC6?style=for-the-badge&logo=instagram"/> 
-<img src="https://img.shields.io/badge/-u/AzmeaL-FF4500?style=for-the-badge&logo=reddit"/>
-<img src="https://img.shields.io/badge/-@helvada-00A2F5?style=for-the-badge&logo=twitter"/> 
-<img src="https://img.shields.io/badge/-7485%237485-7289DA?style=for-the-badge&logo=discord"/> 
+<img src="https://img.shields.io/badge/@recepemre.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<img src="https://img.shields.io/badge/u/AzmeaL-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+<img src="https://img.shields.io/badge/@helvada-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/7485%237485-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> 
 </details>
 
 <!-- - 🔭 I’m currently working on ...
